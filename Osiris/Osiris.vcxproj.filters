@@ -127,6 +127,11 @@
     </ClCompile>
     <ClCompile Include="SDK\Entity.cpp">
       <Filter>SDK</Filter>
+    <ClCompile Include="Pattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Listener.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -390,6 +395,11 @@
     </ClInclude>
     <ClInclude Include="SDK\NetworkStringTable.h">
       <Filter>SDK</Filter>
+    <ClInclude Include="Listener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pattern.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
